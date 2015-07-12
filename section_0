@@ -1,0 +1,61 @@
+<h1>Info for Section 0</h1>
+
+<b>HTML</b>
+<p>HyperText Markup Language is the the thing that glues everything together.
+Hyper links glues the pages together. Browsers makes request to internet to servers</p>
+
+<b>HTML is made up of:</b>
+<p>Text content what you see
+ markup what it looks like
+ references to other doc
+ links to other pages
+</p>
+<b>HTML markup</b>
+<p>< name>contents< /name>
+  opening tag    closing tag
+  All of it is Element
+  b is bold
+  em is italics
+</p>
+<b>HTML Attributes</b>
+<p>< tag ATTR="value"> contents < /tag>
+Anchor - < a> - for making links
+< a href="www.reddit.com">derp< /a>
+</p>
+<b>Images</b>
+<p><img> - images
+<img src="url" alt="text">
+src is the url of image
+alt is required, for broken request and for blind people
+It is a void tag as it has no content so needs no closing tag
+</p>
+
+<b>WHITESPACE</b>
+<p>all space turns into single space
+<br> break (void tag) put this to enter line
+< p> paragraph
+< p>content< /p>
+</p>
+<b>inline/block</b>
+<p>< br> - inline < p> - block
+
+br ends the line
+p tag makes an invisible box
+</p>
+<b>span / div</b>
+<p>< span>text< /span>
+span is inline
+< div>text< /div>
+div is block
+</p>
+HTML DOCUMENTS
+<p>< !DOCTYPE HTML> - doctype<br>
+< html><br>
+< head><br>
+  < title>Title!< /title><br>
+< /head><br>
+< body><br>
+< b>content< /b> stuff you see of the screen
+< /body><br>
+< /html>
+</p>
